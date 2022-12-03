@@ -1,0 +1,15 @@
+D:\github\multithreading-in-csharp-practice\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+D:\github\multithreading-in-csharp-practice\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+D:\github\multithreading-in-csharp-practice\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+D:\github\multithreading-in-csharp-practice\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+D:\github\multithreading-in-csharp-practice\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+D:\github\multithreading-in-csharp-practice\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\github\multithreading-in-csharp-practice\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\multithreading-in-csharp-practice\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\github\multithreading-in-csharp-practice\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+D:\github\multithreading-in-csharp-practice\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\github\multithreading-in-csharp-practice\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+D:\github\multithreading-in-csharp-practice\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+D:\github\multithreading-in-csharp-practice\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+D:\github\multithreading-in-csharp-practice\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+D:\github\multithreading-in-csharp-practice\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
