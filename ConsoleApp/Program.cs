@@ -1,5 +1,8 @@
-﻿{
-	internal class Program
+﻿using System;
+using System.Threading;
+using System.Threading.Tasks;
+
+internal class Program
 	{
 		static void Main(string[] args)
 		{
@@ -55,4 +58,3 @@
 			});
 		}
 	}
-}
